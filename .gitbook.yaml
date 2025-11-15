@@ -1,0 +1,33 @@
+root: ./
+
+structure:
+  readme: README.md
+  summary: SUMMARY.md
+
+redirects:
+  # Legacy paths to new structure
+  docs/plans/: foundations/
+  docs/Problem Statements/01-: foundations/month-01/daily/
+  docs/Problem Statements/02-: foundations/month-02/daily/
+  docs/Problem Statements/03-: foundations/month-03/daily/
+  docs/Problem Statements/04-: foundations/month-04/daily/
+  docs/Problem Statements/05-: foundations/month-05/daily/
+  docs/Problem Statements/06-: foundations/month-06/daily/
+  docs/Problem Statements/07-: intermediate/month-07/daily/
+  docs/Problem Statements/08-: intermediate/month-08/daily/
+  docs/Problem Statements/09-: intermediate/month-09/daily/
+  docs/Problem Statements/10-: intermediate/month-10/daily/
+  docs/Problem Statements/11-: intermediate/month-11/daily/
+  docs/Problem Statements/12-: intermediate/month-12/daily/
+  docs/Problem Statements/13-: advanced/month-13/daily/
+  docs/Problem Statements/14-: advanced/month-14/daily/
+  docs/Problem Statements/15-: advanced/month-15/daily/
+  docs/Problem Statements/16-: advanced/month-16/daily/
+  docs/Problem Statements/17-: advanced/month-17/daily/
+  docs/Problem Statements/18-: advanced/month-18/daily/
+  docs/Problem Statements/19-: expert/month-19/daily/
+  docs/Problem Statements/20-: expert/month-20/daily/
+  docs/Problem Statements/21-: expert/month-21/daily/
+  docs/Problem Statements/22-: expert/month-22/daily/
+  docs/Problem Statements/23-: expert/month-23/daily/
+  docs/Problem Statements/24-: expert/month-24/daily/
